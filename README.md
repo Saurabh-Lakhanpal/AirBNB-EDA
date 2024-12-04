@@ -5,9 +5,9 @@ The primary objective of this project is to explore and analyze a dataset of Air
 
 #### Data
 The analysis will be based on the following data sources:</br>
-Calendar Data: Contains information about the availability and pricing of listings.</br>
-Listings Data: Contains detailed information about each listing, including location, room type, price, and host information.</br>
-Reviews Data: Contains reviews and ratings provided by guests for each listing.</br>
+   - Calendar Data: Contains information about the availability and pricing of listings.</br>
+   - Listings Data: Contains detailed information about each listing, including location, room type, price, and host information.</br>
+   - Reviews Data: Contains reviews and ratings provided by guests for each listing.</br>
 
 #### Pseudocode
 1. Download csv from the websites
