@@ -33,7 +33,6 @@ The analysis will be based on the following data sources:</br>
    - Create a copy of the dataset
    - Handle missing values by dropping rows with missing data
    - Drop irrelevant columns ('id', 'name', 'host_name')
-   - Encode categorical variables using one-hot encoding
    - Check for and drop duplicate values
    - Perform correlation analysis on numerical columns
    - Extract date features from 'last_review' column
